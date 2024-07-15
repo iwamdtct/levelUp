@@ -845,6 +845,12 @@ a:hover,
         flex-direction: column;
     }
 
+    .price {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
     .price img{
         width: 50vw;
         height: 100%;
